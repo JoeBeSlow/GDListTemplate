@@ -8,12 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-              {
+    ] {
             "user": "Theorangeamongus",
             "link": "https://youtu.be/-zudpd6nR8Q?si=f7n_wBRHlndKm8SY",
             "percent": 100,
             "hz": 240
         }
-
     ]
 }
