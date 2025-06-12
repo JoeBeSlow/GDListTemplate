@@ -1,4 +1,4 @@
-{
+r{
     "id": 120708000,
     "name": "Veneration",
     "author": "JoeBeSlow",
@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        "Theorangeamonmgus": "Theorangeamongus",
+        "user": "Theorangeamongus",
             "link": "https://www.youtube.com/watch?v=-zudpd6nR8Q",
             "percent": 100,
             "hz": 240
